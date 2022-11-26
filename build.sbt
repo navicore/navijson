@@ -4,7 +4,7 @@ version := "1.0"
 
 scalaVersion := "2.12.17"
 
-val antlrVer = "4.7.1"
+val antlrVer = "4.11.1"
 enablePlugins(Antlr4Plugin)
 antlr4Version in Antlr4 := antlrVer
 antlr4PackageName in Antlr4 := Some("tech.navicore.navijson.antlr")
