@@ -2,7 +2,7 @@ name := "Navijson"
 
 version := "1.0"
 
-scalaVersion := "2.13.11"
+scalaVersion := "2.13.12"
 
 val antlrVer = "4.13.1"
 enablePlugins(Antlr4Plugin)
