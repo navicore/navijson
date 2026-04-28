@@ -1,3 +1,8 @@
+<!-- ghmig:moved -->
+> **This repository has moved to [https://git.navicore.tech/navicore/navijson](https://git.navicore.tech/navicore/navijson).**
+>
+> The GitHub copy is archived and no longer maintained.
+
 NaviJSON
 -----
 
